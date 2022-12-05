@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://drive.google.com/file/d/19UrbiFMc_4clICdKABq_Gq-ZLpNtCFIS/view?usp=share_link";
+  "https://media-exp1.licdn.com/dms/document/C562DAQHd3SXmo-1Ymg/profile-treasury-document-pdf-analyzed/0/1670269042873?e=1671062400&v=beta&t=lO6Z4zqlA-2F-_TB8JwZnWUqPUjxVqhFR4R4VWd3gfM";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);

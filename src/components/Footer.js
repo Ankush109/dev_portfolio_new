@@ -17,7 +17,7 @@ function Footer() {
           <h3>Designed and Developed by Ankush Banerjee</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} SB</h3>
+          <h3>Copyright © {year} Ab</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
@@ -31,16 +31,7 @@ function Footer() {
                 <AiFillGithub />
               </a>
             </li>
-            {/* <li className="social-icons">
-              <a
-                href="https://twitter.com/Soumyajit4419"
-                style={{ color: "white" }}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <AiOutlineTwitter />
-              </a>
-            </li> */}
+
             <li className="social-icons">
               <a
                 href="https://www.linkedin.com/in/ankush-banerjee-05b0b421a/"

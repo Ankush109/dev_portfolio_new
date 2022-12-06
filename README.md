@@ -3,7 +3,7 @@
   <a href="https://www.ankushtech.software/" target="_blank">ankushtech.software</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/ankush.png" />
+  <img alt="Demo" src="./Images/a.png" />
 </div>
 
 <br/>

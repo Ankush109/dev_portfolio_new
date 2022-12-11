@@ -59,6 +59,26 @@ This is MERN stack web applicaiton which i have developed to test my tech stack 
               // demoLink="https://plant49-ai.herokuapp.com/"
             />
           </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath="https://raw.githubusercontent.com/Ankush109/Travigo/main/frontend/src/Components/images/Screenshot_20221211_012429.png"
+              isBlog={false}
+              title="Weather App"
+              description="This is a simple weather app which uses the open weather api to fetch the weather data of the city you type in the search bar and it also shows the weather of your current location"
+              ghLink="https://github.com/Ankush109/Weather_app-2022_new-"
+              demoLink="https://weather-app-2022-new.vercel.app/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath="https://raw.githubusercontent.com/Ankush109/Travigo/main/frontend/src/Components/images/Screenshot_20221211_012429.png"
+              isBlog={false}
+              title="Newsmonkey"
+              description="This news app uses the news api to fetch the news and sort it according to the category you select and it also has a search bar where you can search for the news you want to read"
+              ghLink="https://github.com/Ankush109/newsmonkey"
+              // demoLink="https://weather-app-2022-new.vercel.app/"
+            />
+          </Col>
         </Row>
       </Container>
     </Container>

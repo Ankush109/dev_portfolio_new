@@ -61,7 +61,7 @@ This is MERN stack web applicaiton which i have developed to test my tech stack 
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath=""
+              imgPath="https://raw.githubusercontent.com/Ankush109/dev_portfolio_new/main/images/Screenshot_20221211_151905.png"
               isBlog={false}
               title="Weather App"
               description="This is a simple weather app which uses the open weather api to fetch the weather data of the city you type in the search bar and it also shows the weather of your current location"

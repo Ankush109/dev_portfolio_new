@@ -61,7 +61,7 @@ This is MERN stack web applicaiton which i have developed to test my tech stack 
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath="https://raw.githubusercontent.com/Ankush109/Travigo/main/frontend/src/Components/images/Screenshot_20221211_012429.png"
+              imgPath=""
               isBlog={false}
               title="Weather App"
               description="This is a simple weather app which uses the open weather api to fetch the weather data of the city you type in the search bar and it also shows the weather of your current location"
@@ -71,7 +71,7 @@ This is MERN stack web applicaiton which i have developed to test my tech stack 
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath="https://raw.githubusercontent.com/Ankush109/Travigo/main/frontend/src/Components/images/Screenshot_20221211_012429.png"
+              imgPath="https://raw.githubusercontent.com/Ankush109/newsmonkey/main/images/Screenshot_20221211_132100.png"
               isBlog={false}
               title="Newsmonkey"
               description="This news app uses the news api to fetch the news and sort it according to the category you select and it also has a search bar where you can search for the news you want to read"

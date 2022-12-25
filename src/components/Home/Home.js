@@ -4,7 +4,8 @@ import homeLogo from "../../Assets/home-main.svg";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
-
+import "./home.css";
+import { Link } from "react-scroll";
 function Home() {
   return (
     <section>
@@ -24,7 +25,9 @@ function Home() {
                 I'M
                 <strong className="main-name"> ANKUSH BANERJEE</strong>
               </h1>
-
+              {/* <Link to="Contact" spy={true} smooth={true}>
+                contact
+              </Link> */}
               <div style={{ padding: 50, textAlign: "left" }}>
                 <Type />
               </div>

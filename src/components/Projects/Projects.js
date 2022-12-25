@@ -54,7 +54,7 @@ This is MERN stack web applicaiton which i have developed to test my tech stack 
               imgPath="https://raw.githubusercontent.com/Ankush109/Travigo/main/frontend/src/Components/images/Screenshot_20221211_012429.png"
               isBlog={false}
               title="Travigo"
-              description="Travigo is a travel bloggin web application where user can post their travel experiences"
+              description="Travigo is a travel blogging web application where user can post their travel experiences"
               ghLink="https://github.com/Ankush109/Travigo"
               // demoLink="https://plant49-ai.herokuapp.com/"
             />
